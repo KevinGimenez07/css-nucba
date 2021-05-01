@@ -1,0 +1,60 @@
+/*Estructura*/
+
+body{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p{
+    margin-left: 40px;
+}
+
+h1{
+    margin-left: 8px;
+}
+
+h2{
+    margin-left: 8px;
+}
+
+li{
+    list-style: none;
+}
+
+/*Clase*/
+
+.imagen{
+    height: 300px;
+    width: 200px;
+    margin-right: 50px;
+    margin-top: 23px;
+    float: right;
+}
+
+.imag{
+    width: 105%;
+    height: auto;
+    border: rgb(192, 2, 2) 5px solid;
+}
+
+.head{
+    border:rgb(192, 2, 2) 5px solid;
+}
+
+.section{
+    border: rgb(192, 2, 2) 5px solid;
+}
+
+.footer{
+    border:rgb(192, 2, 2) 5px solid;
+}
+
+/*id*/
+
+#celu{
+    text-decoration-line: underline;
+}
